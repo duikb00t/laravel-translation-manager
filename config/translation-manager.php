@@ -7,7 +7,7 @@ return array(
     | Routes group config
     |--------------------------------------------------------------------------
     |
-    | The default group settings for the elFinder routes.
+    | The default group settings for the translation routes.
     |
     */
     'route' => [
